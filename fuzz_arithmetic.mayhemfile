@@ -1,0 +1,5 @@
+project: nom
+target: fuzz_arithmetic
+
+cmds:
+  - cmd: /fuzz_arithmetic
